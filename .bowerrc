@@ -1,0 +1,6 @@
+{
+	"directory": "./public/lib",
+	"storage": {
+		"packages": "./.bower-cache"
+	}
+}

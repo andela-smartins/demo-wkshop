@@ -1,0 +1,117 @@
+a:hover {
+  text-decoration: none !important;
+}
+
+a.header-logo,
+.cta-logo #logo {
+  background: transparent url(../img/logo.png) no-repeat top left;
+  background-size: contain;
+}
+
+a.header-logo {
+  background-position: center left;
+  padding: 25px 0;
+  margin: 5px;
+  padding-left: 40px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.big-cta {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.big-cta > div {
+  float: left;
+  width: auto;
+}
+
+.cta-logo #logo {
+  height: 125px;
+  width: 100%;
+  text-indent: -9999999px;
+  margin-bottom: 4px;
+}
+
+.cta-text h2 {
+  margin: 40px 0 0 0;
+}
+
+.cta-logo p {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  text-align: center;
+  font-size: 14px;
+  margin-top: -3px;
+}
+
+.cta-logo p span {
+  font-family: Vollkorn;
+  font-size: 17px;
+  letter-spacing: 1px;
+}
+
+.group:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+.cta-text h2 {
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  text-shadow: 1px 1px rgb(104, 164, 196);
+}
+
+.cta-text h2 span {
+  display: block;
+  line-height: 1;
+  margin: 0;
+  color: #666;
+  font-size: 16px;
+}
+
+.cta-text h4 {
+  font-style: italic;
+  text-shadow: 1px 1px rgba(21, 18, 18, 0.2);
+}
+
+.contact .container {
+  max-width: 800px !important;
+}
+
+.btn.disabled,
+.btn[disabled],
+fieldset[disabled] .btn {
+  background: #b2b2b2 !important;
+  border: 1px solid #b2b2b2;
+}
+.about-page p, .terms-page p {
+  font-size: 1.12em;
+  line-height: 1.7;
+}
+.post-heading h3 {
+  text-align: center;
+  margin-top: 20px;
+}
+.about-page ul, .terms-page ul {
+  margin-left: 0;
+}
+
+.about-page ul h4, .terms-page ul h4 {
+  margin-top: 35px;
+  margin-bottom: 5px;
+}
+li {
+  list-style-type: none;
+}
+/*.cif li {
+  list-style-type: decimal;
+}*/
+.cif li {
+  margin-top: 15px;
+}
