@@ -107,6 +107,8 @@ Based on #3 above ....
 ### MongoDB case study
 (And, sure, other DBs have their of way of implementing this.)
 <br>
+<br>
+<br>
 What we're going to create a DB similar to: 
 ![](/public/img/setup.png)
   
@@ -118,7 +120,7 @@ What we're going to create a DB similar to:
 #### * App to test
 -->Clone this:  https://github.com/andela-smartins/demo-wkshop 
 
-#### * DB setup
+#### * Shell commands for DB setup
 
 ```sh
 $ sudo mkdir -p /mongo/data2
@@ -133,5 +135,13 @@ $ mongo shell --port 27017
  ---- rs.slaveOk()
 ```
 
+<br>
+<br>
+<br>
 
-
+Links:
+* https://en.wikipedia.org/wiki/Database#Performance.2C_security.2C_and_availability 
+* http://searchsqlserver.techtarget.com/definition/database-replication 
+* http://docs.mongodb.org/manual/replication/ 
+* http://www.postgresql.org/docs/9.1/static/high-availability.html 
+* https://www.digitalocean.com/community/tutorials/how-to-set-up-master-slave-replication-on-postgresql-on-an-ubuntu-12-04-vps
