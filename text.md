@@ -143,5 +143,6 @@ Links:
 * https://en.wikipedia.org/wiki/Database#Performance.2C_security.2C_and_availability 
 * http://searchsqlserver.techtarget.com/definition/database-replication 
 * http://docs.mongodb.org/manual/replication/ 
-* http://www.postgresql.org/docs/9.1/static/high-availability.html 
+* http://www.postgresql.org/docs/9.1/static/high-availability.html
+* https://github.com/mongolab/mongodb-uri-node 
 * https://www.digitalocean.com/community/tutorials/how-to-set-up-master-slave-replication-on-postgresql-on-an-ubuntu-12-04-vps
